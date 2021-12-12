@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/http//kubikkk51.github.io/hw17/static/css/main.9abc222c.chunk.css",
-    "main.js": "/http//kubikkk51.github.io/hw17/static/js/main.8e49fa86.chunk.js",
-    "main.js.map": "/http//kubikkk51.github.io/hw17/static/js/main.8e49fa86.chunk.js.map",
-    "runtime-main.js": "/http//kubikkk51.github.io/hw17/static/js/runtime-main.9cd244e0.js",
-    "runtime-main.js.map": "/http//kubikkk51.github.io/hw17/static/js/runtime-main.9cd244e0.js.map",
-    "static/js/2.70571f48.chunk.js": "/http//kubikkk51.github.io/hw17/static/js/2.70571f48.chunk.js",
-    "static/js/2.70571f48.chunk.js.map": "/http//kubikkk51.github.io/hw17/static/js/2.70571f48.chunk.js.map",
-    "static/js/3.e2b446b0.chunk.js": "/http//kubikkk51.github.io/hw17/static/js/3.e2b446b0.chunk.js",
-    "static/js/3.e2b446b0.chunk.js.map": "/http//kubikkk51.github.io/hw17/static/js/3.e2b446b0.chunk.js.map",
-    "index.html": "/http//kubikkk51.github.io/hw17/index.html",
-    "static/css/main.9abc222c.chunk.css.map": "/http//kubikkk51.github.io/hw17/static/css/main.9abc222c.chunk.css.map",
-    "static/js/2.70571f48.chunk.js.LICENSE.txt": "/http//kubikkk51.github.io/hw17/static/js/2.70571f48.chunk.js.LICENSE.txt",
-    "static/media/cebbb.b8ffa98a.png": "/http//kubikkk51.github.io/hw17/static/media/cebbb.b8ffa98a.png",
-    "static/media/nono.21fdac6c.png": "/http//kubikkk51.github.io/hw17/static/media/nono.21fdac6c.png",
-    "static/media/saksa-1.d9c63194.png": "/http//kubikkk51.github.io/hw17/static/media/saksa-1.d9c63194.png",
-    "static/media/sumail1.a3a50752.png": "/http//kubikkk51.github.io/hw17/static/media/sumail1.a3a50752.png",
-    "static/media/topson.be83c941.png": "/http//kubikkk51.github.io/hw17/static/media/topson.be83c941.png"
+    "main.css": "/hw17/static/css/main.9abc222c.chunk.css",
+    "main.js": "/hw17/static/js/main.d9d0cda2.chunk.js",
+    "main.js.map": "/hw17/static/js/main.d9d0cda2.chunk.js.map",
+    "runtime-main.js": "/hw17/static/js/runtime-main.b4247dba.js",
+    "runtime-main.js.map": "/hw17/static/js/runtime-main.b4247dba.js.map",
+    "static/js/2.3cd157ad.chunk.js": "/hw17/static/js/2.3cd157ad.chunk.js",
+    "static/js/2.3cd157ad.chunk.js.map": "/hw17/static/js/2.3cd157ad.chunk.js.map",
+    "static/js/3.e2b446b0.chunk.js": "/hw17/static/js/3.e2b446b0.chunk.js",
+    "static/js/3.e2b446b0.chunk.js.map": "/hw17/static/js/3.e2b446b0.chunk.js.map",
+    "index.html": "/hw17/index.html",
+    "static/css/main.9abc222c.chunk.css.map": "/hw17/static/css/main.9abc222c.chunk.css.map",
+    "static/js/2.3cd157ad.chunk.js.LICENSE.txt": "/hw17/static/js/2.3cd157ad.chunk.js.LICENSE.txt",
+    "static/media/cebbb.b8ffa98a.png": "/hw17/static/media/cebbb.b8ffa98a.png",
+    "static/media/nono.21fdac6c.png": "/hw17/static/media/nono.21fdac6c.png",
+    "static/media/saksa-1.d9c63194.png": "/hw17/static/media/saksa-1.d9c63194.png",
+    "static/media/sumail1.a3a50752.png": "/hw17/static/media/sumail1.a3a50752.png",
+    "static/media/topson.be83c941.png": "/hw17/static/media/topson.be83c941.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cd244e0.js",
-    "static/js/2.70571f48.chunk.js",
+    "static/js/runtime-main.b4247dba.js",
+    "static/js/2.3cd157ad.chunk.js",
     "static/css/main.9abc222c.chunk.css",
-    "static/js/main.8e49fa86.chunk.js"
+    "static/js/main.d9d0cda2.chunk.js"
   ]
 }
