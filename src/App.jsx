@@ -16,10 +16,10 @@ function App() {
       <Nav />
       <div>
           <Routes>
-                <Route exact path='/feed' element={<Posts />} />
-                <Route exact path='/contacts' element={<Contacts />} />
-                <Route exact path='/main' element={<Main />} />
-                <Route exact path='/photos' element={<Photos />} />
+                <Route exact path='/hw17/feed/' element={<Posts />} />
+                <Route exact path='/hw17/contacts' element={<Contacts />} />
+                <Route exact path='/hw17/main' element={<Main />} />
+                <Route exact path='/hw17/photos' element={<Photos />} />
           </Routes>
       </div>
     </Router>
