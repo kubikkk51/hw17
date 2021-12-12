@@ -1,0 +1,15 @@
+.picture {
+    width: 1044px;
+    height: 587px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    
+    
+}
+.container {
+    padding-left: 30px;
+}
+h1 {
+    text-align: center;
+}
