@@ -13,6 +13,7 @@ const author={
 
 function Posts() {
   return (
+      <>
     <Post
       name = { author.name }
       nickname = { author.nickname }
@@ -20,8 +21,15 @@ function Posts() {
       date = { author.date }
       photo = { author.photo }
       picture = { author.picture }
+      /><Post
+      name = { author.name }
+      nickname = { author.nickname }
+      content = { author.content }
+      date = { author.date }
+      photo = { author.photo }
+      picture = { author.picture }
       />
-      
+      </>
   );
 }
 
